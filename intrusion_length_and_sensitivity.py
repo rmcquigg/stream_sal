@@ -4,7 +4,9 @@ Created on Sun May 23 16:44:57 2021
 
 @author: apaldor, rmcquiggan
 """
-#This bit below is Anner's code
+#Uses Savenije's (2005) analytical solution to calculate salinity intrusion length in a stream/river
+#The variables below are defined in Savenije, H.H.G., (2005) Salinity and Tides in Alluvial Estuaries. Elsevier, New York.
+#This bit below is Anner's code with some edits and turned into a function with defined parameters
 import numpy as np
 import pandas as pd
 #Define coefficients
