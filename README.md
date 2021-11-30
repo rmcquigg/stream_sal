@@ -1,2 +1,1 @@
-# stream_sal
-Analytical modeling stream salinity
+Tools to model stream salinity
